@@ -1,5 +1,5 @@
 # AzureFunctionsDemo
-Demos that I used during my Azure Functions talk
+Demos that I used during my Azure Functions talk (23.01.2019)
 
 ## Tooling
 I've used Azure Functions Core Tools on a Mac to create and run these projects on my local machine
